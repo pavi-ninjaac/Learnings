@@ -1,0 +1,8 @@
+# Igonre all the virtual environments files.
+genai_learning/
+
+# Ignore the openai key file.
+open_ai_keys.py
+
+# All the pychache files.
+__pychache__/
